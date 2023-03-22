@@ -23,7 +23,15 @@ Also due to the high number of restuarants and busy nature of these streets, foo
 
 ![image](https://user-images.githubusercontent.com/100053788/227013535-5c9fbd57-f620-421f-b1cf-c8828e755c92.png)
 
-3.
+3. Common Trend observed is that:
+
+    a. The locations with the most parking infractions have a higher number of immigrnt populations, similar age trends with majority of the population between 25-54 years.
+    
+    b. Umployment Rates are similar thorughout and Male Female Ratio is also observed to be the same.
+    
+    c. People living alone are concentrated in Downtown Toronto, having lower average Household Size.
+    
+    d. Downtown Toronto has higher Working Class Individuals while other locations have higher number of Children in the households.
 
 
 
