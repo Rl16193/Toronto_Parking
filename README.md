@@ -43,7 +43,7 @@ Also due to the high number of restuarants and busy nature of these streets, foo
 
 The first address is for the **Ontario Science Center** which is a science museum, second is a street in **Downtown, Toronto** and 3rd is the address for **University of Toronto, Scarborough Campus**. 
 
-**A trend observed here is that over 50% of the top location (10 considered in our study) are in and around local tourist attractions, parks or universities.**
+**A trend observed here is that over 50% of the top location (13 considered in our study) are in and around local tourist attractions, parks or universities.**
 
 2. Another trend observed is that the number of infractions are traditionally lower during the winter months December to February. However in the year 2020, because of enforced Lockdown during COVID the summer months have the lowest number of infractions.
 
