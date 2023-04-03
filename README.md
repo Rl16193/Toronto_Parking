@@ -41,7 +41,7 @@ Also due to the high number of restuarants and busy nature of these streets, foo
 
 ![image](https://user-images.githubusercontent.com/100053788/226933073-246517f4-f85e-44e2-9076-10f0f9e13ff5.png)
 
-The first address is for the **Ontario Science Center** which is a science museum, second is a street in **Downtown, Toronto** and 3rd is the address for **University of Toronto, Scarborough Campus**. 
+The first address is for the **SUNNYBROOK HOSPITAL**, second is a street in **Downtown, Toronto** and 3rd is the address for **University of Toronto, Scarborough Campus**. 
 
 **A trend observed here is that over 50% of the top location (13 considered in our study) are in and around local tourist attractions, parks or universities.**
 
